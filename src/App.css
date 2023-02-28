@@ -21,6 +21,40 @@ header{
   text-decoration: underline;
 }
 
+/* Home slide */
+.row_c{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.slide_info{
+  display: flex;
+  justify-content: space-between;
+}
+.slide_academy{
+  width: 69.58%;
+  position: relative;
+}
+.info{
+  width: 27.16%;
+  background: #1a529c;
+}
+.slide_academy .swiper-slide img{
+  width: 100%;
+}
+button{
+  position: absolute;
+}
+
+/* Products */
+.foodlist img{
+  width: 100%;
+}
+.foodtitle{
+  text-align: center;
+}
+
+
+
 /* Login ////////////////// */
 .page{
   text-align: center;
